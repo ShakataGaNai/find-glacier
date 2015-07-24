@@ -1,0 +1,19 @@
+{
+  "name": "find-glacier",
+  "version": "0.1.0",
+  "description": "Look through your AWS S3 buckets for all Glacier content",
+  "homepage": "https://github.com/ShakataGaNai/find-glacier",
+  "license": "MIT",
+  "author": {
+    "name": "Jon Davis",
+    "url": "https://snowulf.com"
+  },
+  "dependencies": {
+    "aws-sdk": ">=2.1.40",
+    "q":">=1.4.1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ShakataGaNai/find-glacier.git"
+  }
+}
